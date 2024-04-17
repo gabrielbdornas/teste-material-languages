@@ -2,6 +2,7 @@ site_name: My Docs
 theme: material
 
 plugins:
+  - blog
   - i18n:
       docs_structure: folder
       languages:
